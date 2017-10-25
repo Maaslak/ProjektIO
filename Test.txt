@@ -1,1 +1,1 @@
-To jest poprawiony dokument testowy
+To jest wspó³dzielony dokument testowy
