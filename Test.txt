@@ -1,2 +1,3 @@
 To jest wspó³dzielony dokument testowy
 Student B, pierwsza modyfikacja
+Student A druga modyfikacja
